@@ -2,6 +2,8 @@
 
 ## Usage
 
+깃헙 페이지 : https://yunpc.github.io/wanted-pre-onboarding-challenge-fe-2/global.html
+
 ### Install
 
 ```bash
